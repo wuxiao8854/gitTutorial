@@ -2,3 +2,4 @@ This is a sample text file, text is ok.  File is updated
 file updating
 more changes
 more changes (Master)
+new code change (newBrunch2)
